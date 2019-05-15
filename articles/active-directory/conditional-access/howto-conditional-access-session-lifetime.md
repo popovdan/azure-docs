@@ -63,7 +63,7 @@ Conditional access is an Azure AD Premium capability and requires a premium lice
 1. Go to **Access Controls** > **Session** and click **Sign-in frequency**
 1. Enter the required value of days and hours in the first text box
 1. Select a value of **Hours** or **Days** from dropdown
-1. Save you policy
+1. Save your policy
 
 ![Conditional access policy configured for sign in frequency](media/howto-conditional-access-session-lifetime/conditional-access-policy-session-sign-in-frequency.png)
 
@@ -81,7 +81,7 @@ If you have configured different Sign-in frequency for different web apps that a
 
 1. Go to **Access Controls** > **Session** and click **Persistent browser session**
 1. Select a value from dropdown
-1. Save you policy
+1. Save your policy
 
 ![Conditional access policy configured for persistent browser](media/howto-conditional-access-session-lifetime/conditional-access-policy-session-persistent-browser.png)
 
